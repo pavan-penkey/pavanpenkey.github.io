@@ -8,26 +8,29 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
+
+  - title: "Skills and Expertise"
+    url: /teaching/    
+  
+  - title: "Portfolio"
+    url: /portfolio/  
+  
+  - title: "Publications and Talks"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Professional Affiliations and activities"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Honors and Awards"
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    #url: /cv/
+    url: /files/Pavan_Penkey_CV.pdf
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
+  - title: "Photography"
     url: /markdown/
+
