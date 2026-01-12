@@ -1,12 +1,12 @@
 ---
-layout: about
+permalink: /
 title: "Pavan Kumar Penkey, MSEE, SMIEEE"
-excerpt: "Lead Protection and Control Engineer | IEEE Senior Member | Guardian of the Grid"
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 # About Me
 
