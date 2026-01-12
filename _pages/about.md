@@ -47,6 +47,16 @@ Beyond technical engineering, I am a **Senior Member of the IEEE** and actively 
 
 ---
 
+## Recent Updates & News
+
+* **Invited Speaker**, *IEEE Rising Stars Conference 2026* — “**Leading Effective Teams**” (January 2026).
+* **Recipient**, **Outstanding Service and Leadership to IEEE Award**, IEEE Palouse Section (December 2025).
+* **Judge**, **Washington State University Computer Science Capstone Poster Competition** (December 2025).
+* **Invited Speaker**, Panel: *“Powering the Digital Future: Innovation, Infrastructure, and Impact”*, **AKPESSC 2025**, IEEE PES Kerala Chapter (October 2025).
+* **IEEE PES Day Region 6 Representative**, leading coordination and organization of PES Day events (April 2025).
+
+---
+
 ## Explore My Work
 
 This website provides an overview of my professional background, technical work, publications, and service activities. I invite you to explore the following sections:
