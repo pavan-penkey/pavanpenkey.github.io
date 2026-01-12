@@ -10,59 +10,67 @@ redirect_from:
 
 # About Me
 
-I am a Lead Protection and Control Engineer at GE Vernova – Grid Solutions with over ten years of experience designing, developing, and commissioning LV, MV, and HV protection systems for utilities, hyperscale data centers, offshore wind, and renewable energy projects. 
+I am a **Power System Protection and Control Engineer** with over ten years of experience designing, validating, and commissioning protection systems for utility transmission networks, hyperscale data centers, offshore wind projects, and renewable energy–integrated power systems.
 
-My work focuses on mission-critical power systems, utility transmission substations, and inverter-based resource (IBR) integration**, with the goal of enabling a resilient, secure, and future-ready electric grid. I am currently pursuing my Ph.D. in Electrical Engineering (Part time) at the University of Idaho to bridge the gap between industrial application and academic research.
-
----
-
-## What I Do
-
-### **Areas of Focus**
-* **Power System Protection and Control:** Designing comprehensive protection schemes for LV, MV, and HV systems, including substation upgrades and retrofit designs.
-* **Utility Transmission & Substation Engineering:** Developing design and setting standards for thermal monitoring, series compensated lines, and shunt reactor protection.
-* **Hyperscale Data Center Infrastructure:** Leading HV utility interconnection and secondary design for major data center campuses, including source-transfer schemes and station control.
-* **Offshore Wind HVDC/HVAC Interconnections:** Managing P&C scope for large-scale projects like South Coast Wind and Empire Wind.
-* **IBR Integration & Advanced Studies:** Conducting short circuit, coordination, and arc flash studies alongside RTDS Hardware-in-the-Loop (HIL) testing.
+My work focuses on reliable and secure protection design for modern electric grids, particularly in environments impacted by inverter-based resources, low system inertia, and increasing system complexity. I have led and contributed to large-scale, mission-critical projects spanning concept development, detailed engineering, system studies, real-time simulation, and field commissioning.
 
 ---
 
-## Why My Work Matters
+## 🔍 Technical Focus Areas
+- Power system protection and control (LV, MV, HV)
+- Utility transmission and substation protection
+- Hyperscale data center and mission-critical infrastructure
+- Inverter-based resources (IBR) and renewable integration
+- Offshore wind and HVDC interconnections
+- Real-time simulation, RTDS testing, and HIL validation
 
-The electric grid is undergoing a rapid transformation driven by renewable integration, digital infrastructure growth, and inverter-dominated systems. My work sits at the intersection of engineering rigor and real-world deployment, ensuring protection systems remain dependable and secure as the grid evolves. By validating complex logic through HIL simulations and conducting detailed root-cause analysis, I help ensure that the infrastructure powering our digital future is both resilient and reliable.
-
----
-
-## Professional Leadership & Service
-
-Beyond technical engineering, I am a **Senior Member of the IEEE** and actively involved in leadership, standards development, and technical mentoring:
-* **Section Leadership:** Serving as the **Section Chair for the IEEE Palouse Section**.
-* **Standards Development:** Contributing to IEEE PES Working Groups, including **C54 (Data Center PAC Systems)** and **HVDC Digital Twins**.
-* **Service:** Acting as a professional chapter representative for IEEE Region 6 and a mentor for the IEEE PES Young Professionals program.
-* **Peer Review:** Regularly reviewing technical contributions for **IEEE Transactions on Power Delivery** and **IEEE Transactions on Power Systems**.
+For a structured overview of my technical capabilities, see the **[Expertise](/teaching/)** page.
 
 ---
 
-## Recent Updates & News
+## 🧭 Professional Journey
+My engineering career spans **utility, industrial, and renewable energy systems**, with increasing responsibility in **technical leadership, system architecture, and cross-disciplinary coordination**. I have worked closely with utilities, OEMs, EPCs, and commissioning teams to deliver **safe, resilient, and standards-compliant power system solutions**.
 
-* **Invited Speaker**, *IEEE Rising Stars Conference 2026* — “**Leading Effective Teams**” (January 2026).
-* **Recipient**, **Outstanding Service and Leadership to IEEE Award**, IEEE Palouse Section (December 2025).
-* **Judge**, **Washington State University Computer Science Capstone Poster Competition** (December 2025).
-* **Invited Speaker**, Panel: *“Powering the Digital Future: Innovation, Infrastructure, and Impact”*, **AKPESSC 2025**, IEEE PES Kerala Chapter (October 2025).
-* **IEEE PES Day Region 6 Representative**, leading coordination and organization of PES Day events (April 2025).
+A chronological overview of my education, project environments, and technical growth is available in the **[Portfolio](/portfolio/)** section.
 
 ---
 
-## Explore My Work
+## 📄 Curriculum Vitae
+My full professional background, education, affiliations, and service activities are detailed in my **[Curriculum Vitae](/cv/)**.
 
-This website provides an overview of my professional background, technical work, publications, and service activities. I invite you to explore the following sections:
+---
 
-* [**Expertise**](/teaching/) – A summary of my skills and expertise in the industry.
-* [**Portfolio**](/portfolio/) – Lists a detailed summary of my education and the type of projects and technical subjects I deal with.
-* [**Publications**](/publications/) – Providing a summary of my publications and the invited talks and presentations.
-* [**Activities**](/talks/) – Gives a summary of my professional affiliations, volunteering, reviews, working group activities, etc.
-* [**Awards**](/year-archive/) – A quick summary of my honors and awards over the years.
-* [**CV**](/cv/) – A detailed look at my career trajectory with full details.
-* [**Hobbies**](/markdown/) – Photography, biking, and sport activities.
+## 📚 Publications & Talks
+I contribute to the advancement of power engineering through **technical publications, invited talks, panel discussions, and conference presentations**, with a focus on **power system protection, grid resilience, and emerging grid technologies**.
 
+A summary of my scholarly and invited contributions is available under **[Publications](/publications/)**.
+
+---
+
+## 🤝 Professional Activities
+I actively engage in the power engineering community through **IEEE leadership roles, technical reviewing, conference organization, standards-related activities, and mentoring**, supporting knowledge dissemination and professional development.
+
+Details of my professional service and affiliations can be found on the **[Activities](/talks/)** page.
+
+---
+
+## 🏆 Honors & Awards
+My contributions to engineering practice and professional service have been recognized through **IEEE awards and institutional honors** over the course of my career.
+
+A selected list of recognitions is available on the **[Awards](/year-archive/)** page.
+
+---
+
+## 📰 Recent Updates & News
+
+- **Invited Speaker**, *IEEE Rising Stars Conference 2026* — “**Leading Effective Teams**” (January 2026).
+- **Recipient**, **Outstanding Service and Leadership to IEEE Award**, IEEE Palouse Section (December 2025).
+- **Judge**, **Washington State University Computer Science Capstone Poster Competition** (December 2025).
+- **Invited Speaker**, Panel: *“Powering the Digital Future: Innovation, Infrastructure, and Impact”*, **AKPESSC 2025**, IEEE PES Kerala Chapter (October 2025).
+- **IEEE PES Day Region 6 Representative**, leading coordination and organization of PES Day events (April 2025).
+
+---
+
+## 📬 Get in Touch
+I welcome opportunities for **technical collaboration, reviewing, speaking engagements, and professional discussions** related to power system protection, renewable integration, and grid modernization.
 ---
