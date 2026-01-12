@@ -9,19 +9,19 @@
 
 main:
 
-  - title: "Skills and Expertise"
+  - title: "Expertise"
     url: /teaching/    
   
   - title: "Portfolio"
     url: /portfolio/  
   
-  - title: "Publications and Talks"
+  - title: "Publications"
     url: /publications/
 
-  - title: "Professional Affiliations and activities"
+  - title: "Activities"
     url: /talks/    
         
-  - title: "Honors and Awards"
+  - title: "Awards"
     url: /year-archive/
     
   - title: "CV"
