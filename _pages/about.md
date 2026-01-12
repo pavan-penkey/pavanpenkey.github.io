@@ -73,4 +73,3 @@ A selected list of recognitions is available on the **[Awards](/year-archive/)**
 
 ## 📬 Get in Touch
 I welcome opportunities for **technical collaboration, reviewing, speaking engagements, and professional discussions** related to power system protection, renewable integration, and grid modernization.
----
