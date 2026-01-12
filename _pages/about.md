@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Pavan Kumar Penkey, MSEE, SMIEEE"
+title: "Pavan Penkey | Gaurdian of the Grid"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Lead Protection and Control Engineer | IEEE Senior Member | Guardian of the Grid
+
 # About Me
 
 I am a Lead Protection and Control Engineer at GE Vernova – Grid Solutions with over ten years of experience designing, developing, and commissioning LV, MV, and HV protection systems for utilities, hyperscale data centers, offshore wind, and renewable energy projects. 
