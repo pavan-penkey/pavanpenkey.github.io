@@ -14,6 +14,10 @@ main:
   
   - title: "Portfolio"
     url: /portfolio/  
+
+  - title: "CV"
+    #url: /cv/
+    url: /files/Pavan_Penkey_CV.pdf
   
   - title: "Publications"
     url: /publications/
@@ -23,10 +27,6 @@ main:
         
   - title: "Awards"
     url: /year-archive/
-    
-  - title: "CV"
-    #url: /cv/
-    url: /files/Pavan_Penkey_CV.pdf
     
   # - title: "CV"
   #   url: /cv-json/
