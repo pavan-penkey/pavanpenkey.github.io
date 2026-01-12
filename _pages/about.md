@@ -14,7 +14,7 @@ redirect_from:
 
 I am a Lead Protection and Control Engineer at GE Vernova – Grid Solutions with over ten years of experience designing, developing, and commissioning LV, MV, and HV protection systems for utilities, hyperscale data centers, offshore wind, and renewable energy projects. 
 
-My work focuses on mission-critical power systems, utility transmission substations, and inverter-based resource (IBR) integration**, with the goal of enabling a resilient, secure, and future-ready electric grid. I am currently pursuing my Ph.D. in Electrical Engineering at the University of Idaho to bridge the gap between industrial application and academic research.
+My work focuses on mission-critical power systems, utility transmission substations, and inverter-based resource (IBR) integration**, with the goal of enabling a resilient, secure, and future-ready electric grid. I am currently pursuing my Ph.D. in Electrical Engineering (Part time) at the University of Idaho to bridge the gap between industrial application and academic research.
 
 ---
 
