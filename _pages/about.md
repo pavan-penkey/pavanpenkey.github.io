@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Pavan Penkey | Gaurdian of the Grid"
+title: "Pavan Penkey MSEE SMIEEE"
+excerpt: "Gaurdian of the Grid"
 author_profile: true
 redirect_from: 
   - /about/
