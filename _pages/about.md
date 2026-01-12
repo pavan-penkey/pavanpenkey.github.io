@@ -43,16 +43,6 @@ Beyond technical engineering, I am a **Senior Member of the IEEE** and actively 
 
 ---
 
-## Professional Leadership & Service
-
-Beyond technical engineering, I am a **Senior Member of the IEEE** and actively involved in leadership, standards development, and technical mentoring:
-* **Section Leadership:** Serving as the **Section Chair for the IEEE Palouse Section**.
-* **Standards Development:** Contributing to IEEE PES Working Groups, including **C54 (Data Center PAC Systems)** and **HVDC Digital Twins**.
-* **Service:** Acting as a professional chapter representative for IEEE Region 6 and a mentor for the IEEE PES Young Professionals program.
-* **Peer Review:** Regularly reviewing technical contributions for **IEEE Transactions on Power Delivery** and **IEEE Transactions on Power Systems**.
-
----
-
 ## Recent Updates & News
 
 * **Invited Speaker**, *IEEE Rising Stars Conference 2026* — “**Leading Effective Teams**” (January 2026).
@@ -67,12 +57,12 @@ Beyond technical engineering, I am a **Senior Member of the IEEE** and actively 
 
 This website provides an overview of my professional background, technical work, publications, and service activities. I invite you to explore the following sections:
 
-* [**Expertise**](/expertise/) – A summary of my skills and expertise in the industry.
+* [**Expertise**](/teaching/) – A summary of my skills and expertise in the industry.
 * [**Portfolio**](/portfolio/) – Lists a detailed summary of my education and the type of projects and technical subjects I deal with.
 * [**Publications**](/publications/) – Providing a summary of my publications and the invited talks and presentations.
-* [**Activities**](/activities/) – Gives a summary of my professional affiliations, volunteering, reviews, working group activities, etc.
-* [**Awards**](/awards/) – A quick summary of my honors and awards over the years.
+* [**Activities**](/talks/) – Gives a summary of my professional affiliations, volunteering, reviews, working group activities, etc.
+* [**Awards**](/year-archive/) – A quick summary of my honors and awards over the years.
 * [**CV**](/cv/) – A detailed look at my career trajectory with full details.
-* [**Hobbies**](/hobbies/) – Photography, biking, and sport activities.
+* [**Hobbies**](/markdown/) – Photography, biking, and sport activities.
 
 ---
