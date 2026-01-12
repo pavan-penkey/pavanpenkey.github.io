@@ -43,6 +43,16 @@ Beyond technical engineering, I am a **Senior Member of the IEEE** and actively 
 
 ---
 
+## Professional Leadership & Service
+
+Beyond technical engineering, I am a **Senior Member of the IEEE** and actively involved in leadership, standards development, and technical mentoring:
+* **Section Leadership:** Serving as the **Section Chair for the IEEE Palouse Section**.
+* **Standards Development:** Contributing to IEEE PES Working Groups, including **C54 (Data Center PAC Systems)** and **HVDC Digital Twins**.
+* **Service:** Acting as a professional chapter representative for IEEE Region 6 and a mentor for the IEEE PES Young Professionals program.
+* **Peer Review:** Regularly reviewing technical contributions for **IEEE Transactions on Power Delivery** and **IEEE Transactions on Power Systems**.
+
+---
+
 ## Recent Updates & News
 
 * **Invited Speaker**, *IEEE Rising Stars Conference 2026* — “**Leading Effective Teams**” (January 2026).
