@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
 # About Me
 
 I am a Lead Protection and Control Engineer at GE Vernova – Grid Solutions with over ten years of experience designing, developing, and commissioning LV, MV, and HV protection systems for utilities, hyperscale data centers, offshore wind, and renewable energy projects. 
@@ -26,8 +24,6 @@ My work focuses on mission-critical power systems, utility transmission substati
 * **Hyperscale Data Center Infrastructure:** Leading HV utility interconnection and secondary design for major data center campuses, including source-transfer schemes and station control.
 * **Offshore Wind HVDC/HVAC Interconnections:** Managing P&C scope for large-scale projects like South Coast Wind and Empire Wind.
 * **IBR Integration & Advanced Studies:** Conducting short circuit, coordination, and arc flash studies alongside RTDS Hardware-in-the-Loop (HIL) testing.
-
-
 
 ---
 
