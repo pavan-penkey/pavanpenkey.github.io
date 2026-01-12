@@ -25,6 +25,8 @@ My work focuses on mission-critical power systems, utility transmission substati
 * **Offshore Wind HVDC/HVAC Interconnections:** Managing P&C scope for large-scale projects like South Coast Wind and Empire Wind.
 * **IBR Integration & Advanced Studies:** Conducting short circuit, coordination, and arc flash studies alongside RTDS Hardware-in-the-Loop (HIL) testing.
 
+
+
 ---
 
 ## Why My Work Matters
@@ -54,4 +56,5 @@ This website provides an overview of my professional background, technical work,
 * [**Awards**](/awards/) – A quick summary of my honors and awards over the years.
 * [**CV**](/cv/) – A detailed look at my career trajectory with full details.
 * [**Hobbies**](/hobbies/) – Photography, biking, and sport activities.
+
 ---
