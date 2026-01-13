@@ -1,8 +1,13 @@
 ---
 layout: archive
-title: "Portfolio"
 permalink: /portfolio/
 ---
+## What I Work On
+
+My work spans the full lifecycle of complex power systems — from early-stage studies and protection philosophy development to real-time simulation, commissioning, and post-event analysis — across utility, data center, renewable, and industrial environments.
+
+
+## Portfolio
 
 This portfolio provides a chronological overview of my education, technical focus areas, and the types of engineering projects I have worked on across utility transmission, hyperscale data centers, offshore wind, renewable energy systems, and industrial power infrastructure.
 
