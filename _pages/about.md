@@ -1,9 +1,7 @@
 ---
 permalink: /
-
+title: "About me"
 ---
-
-# About Me
 
 I am a **Power System Protection and Control Engineer** with over ten years of experience designing, validating, and commissioning protection systems for utility transmission networks, hyperscale data centers, offshore wind projects, and renewable energy–integrated power systems.
 
