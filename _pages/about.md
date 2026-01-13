@@ -22,7 +22,7 @@ For a structured overview of my technical capabilities, see the **[Expertise](/t
 ---
 
 ## 🧭 Professional Journey
-My engineering career spans **utility, industrial, and renewable energy systems**, with increasing responsibility in **technical leadership, system architecture, and cross-disciplinary coordination**. I have worked closely with utilities, OEMs, EPCs, and commissioning teams to deliver **safe, resilient, and standards-compliant power system solutions**.
+My engineering career spans utility, industrial, and renewable energy systems, with increasing responsibility in technical leadership, system architecture, and cross-disciplinary coordination. I have worked closely with utilities, OEMs, EPCs, and commissioning teams to deliver safe, resilient, and standards-compliant power system solutions.
 
 A chronological overview of my education, project environments, and technical growth is available in the **[Portfolio](/_pages/portfolio/)** section.
 
@@ -34,21 +34,21 @@ My full professional background, education, affiliations, and service activities
 ---
 
 ## 📚 Publications & Talks
-I contribute to the advancement of power engineering through **technical publications, invited talks, panel discussions, and conference presentations**, with a focus on **power system protection, grid resilience, and emerging grid technologies**.
+I contribute to the advancement of power engineering through technical publications, invited talks, panel discussions, and conference presentations, with a focus on power system protection, grid resilience, and emerging grid technologies.
 
 A summary of my scholarly and invited contributions is available under **[Publications](/_pages/publications/)**.
 
 ---
 
 ## 🤝 Professional Activities
-I actively engage in the power engineering community through **IEEE leadership roles, technical reviewing, conference organization, standards-related activities, and mentoring**, supporting knowledge dissemination and professional development.
+I actively engage in the power engineering community through IEEE leadership roles, technical reviewing, conference organization, standards-related activities, and mentoring, supporting knowledge dissemination and professional development.
 
 Details of my professional service and affiliations can be found on the **[Activities](/_pages/talks/)** page.
 
 ---
 
 ## 🏆 Honors & Awards
-My contributions to engineering practice and professional service have been recognized through **IEEE awards and institutional honors** over the course of my career.
+My contributions to engineering practice and professional service have been recognized through IEEE awards and institutional honors over the course of my career.
 
 A selected list of recognitions is available on the **[Awards](/_pages/year-archive/)** page.
 
@@ -56,13 +56,13 @@ A selected list of recognitions is available on the **[Awards](/_pages/year-arch
 
 ## 📰 Recent Updates & News
 
-- **Invited Speaker**, *IEEE Rising Stars Conference 2026* — “**Leading Effective Teams**” (January 2026).
-- **Recipient**, **Outstanding Service and Leadership to IEEE Award**, IEEE Palouse Section (December 2025).
-- **Judge**, **Washington State University Computer Science Capstone Poster Competition** (December 2025).
-- **Invited Speaker**, Panel: *“Powering the Digital Future: Innovation, Infrastructure, and Impact”*, **AKPESSC 2025**, IEEE PES Kerala Chapter (October 2025).
-- **IEEE PES Day Region 6 Representative**, leading coordination and organization of PES Day events (April 2025).
+- Invited Speaker, IEEE Rising Stars Conference 2026 — “Leading Effective Teams” (January 2026).
+- Recipient, Outstanding Service and Leadership to IEEE Award, IEEE Palouse Section (December 2025).
+- Judge, Washington State University Computer Science Capstone Poster Competition (December 2025).
+- Invited Speaker, Panel: “Powering the Digital Future: Innovation, Infrastructure, and Impact”, AKPESSC 2025, IEEE PES Kerala Chapter (October 2025).
+- IEEE PES Day Region 6 Representative, leading coordination and organization of PES Day events (April 2025).
 
 ---
 
 ## 📬 Get in Touch
-I welcome opportunities for **technical collaboration, reviewing, speaking engagements, and professional discussions** related to power system protection, renewable integration, and grid modernization.
+I welcome opportunities for technical collaboration, reviewing, speaking engagements, and professional discussions related to power system protection, renewable integration, and grid modernization.
