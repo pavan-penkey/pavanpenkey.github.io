@@ -26,7 +26,7 @@ main:
     url: /activities/    
         
   - title: "Awards"
-    url: /year-archive/
+    url: /Awards/
     
   # - title: "CV"
   #   url: /cv-json/
