@@ -28,7 +28,7 @@ author_profile: true
 ## 🧩 Working Groups & Standards Development
 
 ### IEEE PES Working Groups
-- IEEE PES WG **15.05.08** — *HVDC & FACTS Economics and Operating Strategies*
+- IEEE PES WG 15.05.08 — *HVDC & FACTS Economics and Operating Strategies*
 - IEEE PES Working Group — *HVDC Digital Twin*
 
 ### IEEE Standards Activities
