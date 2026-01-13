@@ -16,7 +16,7 @@ My work focuses on reliable and secure protection design for modern electric gri
 - Utility transmission and substation protection
 - Hyperscale data center and mission-critical infrastructure
 - Inverter-based resources (IBR) and renewable integration
-- Offshore wind and HVDC interconnections
+- Offshore wind HVAC and HVDC interconnections
 - Real-time simulation, RTDS testing, and HIL validation
 
 For a structured overview of my technical capabilities, see the
@@ -25,7 +25,7 @@ For a structured overview of my technical capabilities, see the
 ---
 
 ## 🧭 Professional Journey
-My engineering career spans utility, industrial, and renewable energy systems, with increasing responsibility in technical leadership, system architecture, and cross-disciplinary coordination.
+My engineering career spans utility, industrial, and renewable energy systems, with increasing responsibility in technical leadership, system architecture, and cross-disciplinary coordination. I have worked closely with utilities, OEMs, EPCs, and commissioning teams to deliver safe, resilient, and standards-compliant power system solutions.
 
 A chronological overview of my education, project environments, and technical growth is available in the
 **[Portfolio](/portfolio/)** section.
@@ -39,19 +39,19 @@ My full professional background, education, affiliations, and service activities
 ---
 
 ## 📚 Publications & Talks
-A summary of my scholarly and invited contributions is available under
+I contribute to the advancement of power engineering through technical publications, invited talks, panel discussions, and conference presentations, with a focus on power system protection, grid resilience, and emerging grid technologies. A summary of my scholarly and invited contributions is available under
 **[Publications](/publications/)**.
 
 ---
 
 ## 🤝 Professional Activities
-Details of my professional service and affiliations can be found on the
+I actively engage in the power engineering community through IEEE leadership roles, technical reviewing, conference organization, standards-related activities, and mentoring, supporting knowledge dissemination and professional development. Details of my professional service and affiliations can be found on the
 **[Activities](/activities/)** page.
 
 ---
 
 ## 🏆 Honors & Awards
-A selected list of recognitions is available on the
+My contributions to engineering practice and professional service have been recognized through IEEE awards and institutional honors over the course of my career. A selected list of recognitions is available on the
 **[Awards](/Awards/)** page.
 
 ---
