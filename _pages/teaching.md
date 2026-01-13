@@ -5,10 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-My professional expertise lies at the intersection of **power system protection, advanced grid studies, and mission-critical infrastructure**, developed through hands-on technical leadership across **utility transmission systems, hyperscale data centers, offshore wind projects, industrial facilities, and renewable energy integration**.
+My professional expertise lies at the intersection of power system protection, advanced grid studies, and mission-critical infrastructure**, developed through hands-on technical leadership across utility transmission systems, hyperscale data centers, offshore wind projects, industrial facilities, and renewable energy integration.
 
 ## 🔌 Power System Protection & Control
-- Design, development, and commissioning of **LV, MV, and HV protection systems**
+- Design, development, and commissioning of LV, MV, and HV protection systems
 - Feeder, transformer, motor, generator, line, and bus differential protection
 - Protection philosophy development and functional design specifications (FDS)
 - Development of trip, interlocking, and control logic diagrams
@@ -56,24 +56,33 @@ My professional expertise lies at the intersection of **power system protection,
 
 ## 🛠️ Tools, Platforms & Software
 
-### Protection, Testing & Relays
-- SEL relays (SEL-751, 710, 787, 411L, 487 series, T401L, and others)
-- SEL Software Suite
-- Omicron Test Universe
-- Doble Protection Suite
-- DIGSI 5
+### 🔌 Protection, Testing & Relays
+![SEL Relays](https://img.shields.io/badge/SEL_Relays-003A8F?style=for-the-badge)
+![GE Relays](https://img.shields.io/badge/GE_Relays-005CB9?style=for-the-badge)
+![Siemens Relays](https://img.shields.io/badge/Siemens_Relays-009999?style=for-the-badge)
+![ABB Relays](https://img.shields.io/badge/ABB_Relays-FF0000?style=for-the-badge)
+![SEL Software Suite](https://img.shields.io/badge/SEL_Software_Suite-005BAC?style=for-the-badge)
+![Omicron Test Universe](https://img.shields.io/badge/Omicron_Test_Universe-DC143C?style=for-the-badge)
+![Doble Protection Suite](https://img.shields.io/badge/Doble_Protection_Suite-8B4513?style=for-the-badge)
+![DIGSI 5](https://img.shields.io/badge/DIGSI_5-4B0082?style=for-the-badge)
 
-### Power System Analysis & Simulation
-- ASPEN OneLiner™
-- ETAP®
-- SKM Power*Tools®
-- PowerWorld®
-- RSCAD®
-- MATLAB®
+---
 
-### Engineering & Documentation
-- PTC Mathcad®
-- SCADA architecture and protection-network coordination tools
+### ⚡ Power System Analysis & Simulation
+![ASPEN OneLiner](https://img.shields.io/badge/ASPEN_OneLiner-2F4F4F?style=for-the-badge)
+![ETAP](https://img.shields.io/badge/ETAP-0047AB?style=for-the-badge)
+![SKM PowerTools](https://img.shields.io/badge/SKM_Power*Tools-800000?style=for-the-badge)
+![PowerWorld](https://img.shields.io/badge/PowerWorld-228B22?style=for-the-badge)
+![RSCAD](https://img.shields.io/badge/RSCAD-483D8B?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?style=for-the-badge)
+
+---
+
+### 🧩 Engineering & Documentation
+![PTC Mathcad](https://img.shields.io/badge/PTC_Mathcad-1E90FF?style=for-the-badge)
+![SCADA Systems](https://img.shields.io/badge/SCADA_Architecture-2E8B57?style=for-the-badge)
+![Protection Networking](https://img.shields.io/badge/Protection_Networking-6A5ACD?style=for-the-badge)
+
 
 ## 🧩 Industry Domains
 - Utility transmission and distribution systems
@@ -83,4 +92,4 @@ My professional expertise lies at the intersection of **power system protection,
 - Microgrids and advanced grid architectures
 
 ## 🎯 Professional Focus
-My work emphasizes **system reliability, grid resilience, and secure protection design**, particularly as electric power systems transition toward **renewable, inverter-dominated, and digitally interconnected infrastructures**.
+My work emphasizes system reliability, grid resilience, and secure protection design, particularly as electric power systems transition toward renewable, inverter-dominated, and digitally interconnected infrastructures.
