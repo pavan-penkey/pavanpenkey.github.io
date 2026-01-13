@@ -14,24 +14,6 @@ author_profile: true
 </p>
 {% endif %}
 
-{% if site.publication_category %}
-  {% for category in site.publication_category %}
-    <h2>{{ category[1].title }}</h2>
-
-    {% assign has_posts = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category == category[0] %}
-        {% assign has_posts = true %}
-        {% include archive-single.html %}
-      {% endif %}
-    {% endfor %}
-
-    {% unless has_posts %}
-      <p><em>No publications in this category yet.</em></p>
-    {% endunless %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
