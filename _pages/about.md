@@ -9,6 +9,12 @@ I am a **Power System Protection and Control Engineer** with over ten years of e
 
 My work focuses on reliable and secure protection design for modern electric grids, particularly in environments impacted by inverter-based resources, low system inertia, and increasing system complexity. I have led and contributed to large-scale, mission-critical projects spanning concept development, detailed engineering, system studies, real-time simulation, and field commissioning.
 
+<p style="font-size: 1.15em; text-align: center; font-style: italic; margin: 1.5em 0;">
+  Designing and validating protection systems that keep mission-critical power infrastructure
+  reliable, resilient, and future-ready.
+</p>
+
+
 ---
 
 ## 🔍 Technical Focus Areas
