@@ -28,7 +28,7 @@ For a structured overview of my technical capabilities, see the
 My engineering career spans utility, industrial, and renewable energy systems, with increasing responsibility in technical leadership, system architecture, and cross-disciplinary coordination. I have worked closely with utilities, OEMs, EPCs, and commissioning teams to deliver safe, resilient, and standards-compliant power system solutions.
 
 A chronological overview of my education, project environments, and technical growth is available in the
-**[Portfolio](/portfolio/)** section.
+**[Portfolio](/portfolio/)** section. 
 
 ---
 
