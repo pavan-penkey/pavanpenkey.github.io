@@ -23,7 +23,7 @@ My work focuses on reliable and secure protection design for modern electric gri
 - Offshore wind and HVDC interconnections
 - Real-time simulation, RTDS testing, and HIL validation
 
-For a structured overview of my technical capabilities, see the **[Expertise](/_pages/teaching/)** page.
+For a structured overview of my technical capabilities, see the **[Expertise](pavanpenkey.github.io/_pages/teaching.md)** page.
 
 ---
 
