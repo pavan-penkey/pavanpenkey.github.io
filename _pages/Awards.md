@@ -1,10 +1,10 @@
 ---
 layout: archive
+title: "Awards"
 permalink: /Awards/
 author_profile: true
 ---
 
-# Honors and Awards
 
 - Outstanding service and leadership to IEEE Award, IEEE Palouse Section (2025)
 - Customer Excellence Award, GE Vernova Engineering & Technology Awards (2024)
