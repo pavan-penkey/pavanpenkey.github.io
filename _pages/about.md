@@ -18,7 +18,7 @@ My work focuses on reliable and secure protection design for modern electric gri
 - Offshore wind and HVDC interconnections
 - Real-time simulation, RTDS testing, and HIL validation
 
-For a structured overview of my technical capabilities, see the **[Expertise]({{ site.baseurl }}/teaching/)** page.
+For a structured overview of my technical capabilities, see the **[Expertise](/teaching/)** page.
 
 ---
 
