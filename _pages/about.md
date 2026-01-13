@@ -12,11 +12,11 @@ My work focuses on reliable and secure protection design for modern electric gri
 ---
 
 ## 🔍 Technical Focus Areas
-- Power system protection and control (LV, MV, HV)
-- Utility transmission and substation protection
-- Hyperscale data center and mission-critical infrastructure
-- Inverter-based resources (IBR) and renewable integration
-- Offshore wind HVAC and HVDC interconnections
+- Power system protection and control (LV, MV, HV) — design, validation, and commissioning
+- Utility transmission and substation protection — greenfield and retrofit projects
+- Hyperscale data center infrastructure — utility interconnections and redundancy
+- Inverter-based resources (IBR) — protection challenges and mitigation
+- Offshore wind and HVDC interconnections
 - Real-time simulation, RTDS testing, and HIL validation
 
 For a structured overview of my technical capabilities, see the
