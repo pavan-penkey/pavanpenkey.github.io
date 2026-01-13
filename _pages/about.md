@@ -31,7 +31,7 @@ A chronological overview of my education, project environments, and technical gr
 ---
 
 ## 📄 Curriculum Vitae
-My full professional background, education, affiliations, and service activities are detailed in my **[CV]({{ site.baseurl }}/cv/)**.
+My full professional background, education, affiliations, and service activities are detailed in my **[Curriculum Vitae (PDF, downloadable)]({{ site.baseurl }}/files/Pavan_Penkey_CV.pdf)**.
 
 ---
 
