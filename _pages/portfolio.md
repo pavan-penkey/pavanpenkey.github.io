@@ -4,9 +4,9 @@ title: "Portfolio"
 permalink: /portfolio/
 ---
 
-This portfolio provides a **chronological overview of my education, technical focus areas, and the types of engineering projects** I have worked on across utility transmission, hyperscale data centers, offshore wind, renewable energy systems, and industrial power infrastructure.
+This portfolio provides a chronological overview of my education, technical focus areas, and the types of engineering projects I have worked on across utility transmission, hyperscale data centers, offshore wind, renewable energy systems, and industrial power infrastructure.
 
-Rather than listing individual assignments, this page highlights the **technical domains, system complexities, and engineering challenges** that define my professional work.
+Rather than listing individual assignments, this page highlights the technical domains, system complexities, and engineering challenges that define my professional work.
 
 ---
 
@@ -159,4 +159,4 @@ Rather than listing individual assignments, this page highlights the **technical
 
 ## 🎯 Portfolio Summary
 
-My portfolio reflects a career focused on **protecting and enabling modern electric power systems**, with particular emphasis on **grid resilience, renewable integration, inverter-dominated networks, and mission-critical infrastructure**. The work spans concept development, detailed design, system validation, and commissioning across diverse and technically demanding environments.
+My portfolio reflects a career focused on protecting and enabling modern electric power systems, with particular emphasis on grid resilience, renewable integration, inverter-dominated networks, and mission-critical infrastructure. The work spans concept development, detailed design, system validation, and commissioning across diverse and technically demanding environments.

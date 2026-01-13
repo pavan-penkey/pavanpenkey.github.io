@@ -3,6 +3,7 @@ permalink: /
 title: "About me"
 ---
 
+
 I am a **Power System Protection and Control Engineer** with over ten years of experience designing, validating, and commissioning protection systems for utility transmission networks, hyperscale data centers, offshore wind projects, and renewable energy–integrated power systems.
 
 My work focuses on reliable and secure protection design for modern electric grids, particularly in environments impacted by inverter-based resources, low system inertia, and increasing system complexity. I have led and contributed to large-scale, mission-critical projects spanning concept development, detailed engineering, system studies, real-time simulation, and field commissioning.
