@@ -83,4 +83,3 @@ My professional expertise lies at the intersection of **power system protection,
 - Microgrids and advanced grid architectures
 
 ## 🎯 Professional Focus
-My work emphasizes **system reliability, grid resilience, and secure protection design**, particularly as electric power systems transition toward **renewable, inverter-dominated, and digitally interconnected infrastructures**.
